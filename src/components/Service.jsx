@@ -21,7 +21,7 @@ const Service = () => (
       </div>
     </div>
 
-    <div className="flex flex-nowrap justify-center items-center w-full service-container relative z-[1]">
+    <div className="flex flex-wrap justify-center items-center w-full service-container relative z-[1]">
       {service.map((card) => (
         <ServiceCard key={card.id} {...card} />
       ))}
