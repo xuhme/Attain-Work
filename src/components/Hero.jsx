@@ -23,8 +23,7 @@ const Hero = () => {
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Attain Work Co Ltd. was established in 2021, and is now a leading
           provider of network devices, maintenance, and support services.The
-          company provides reliable and secure networking solutions, including
-          trusted router and switch brands.
+          company provides reliable and secure networking solutions,
         </p>
       </div>
 
