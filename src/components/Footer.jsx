@@ -3,7 +3,7 @@ import { logo } from "../assets";
 
 const Footer = () => (
   <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
-    <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
+    <div className={`${styles.flexCenter} md:flex-row flex-col mb-8 w-full`}>
       <div className="flex-[1] flex flex-col justify-center items-center text-center">
         <img
           src={logo}
