@@ -18,9 +18,9 @@ const Product = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Enhance your work
+        Enhance with
         <br className="sm:block hidden" />
-        With quality products.
+        Quality products.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Attain Work Co Ltd. offers trusted network devices brands to maximize
