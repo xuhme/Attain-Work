@@ -10,13 +10,13 @@ const Footer = () => (
           alt="ATW"
           className="w-[266px] h-[72.14px] object-contain"
         />
-        <p className="font-poppins font-normal text-dimWhite md:text-[16px] text-[14px] mt-4 max-w-full">
+        <p className="font-poppins font-normal text-dimWhite md:text-[16px] text-[12px] mt-4 max-w-full">
           Attain Work Co Ltd.
         </p>
-        <p className="font-poppins font-normal text-dimWhite md:text-[16px] text-[14px] max-w-full">
+        <p className="font-poppins font-normal text-dimWhite md:text-[16px] text-[12px] max-w-full">
           69 Soi Kosumruamjai 9, Don Muang, Bangkok, 10210
         </p>
-        <p className="font-poppins font-normal text-dimWhite md:text-[16px] text-[14px] max-w-full">
+        <p className="font-poppins font-normal text-dimWhite md:text-[16px] text-[12px] max-w-full">
           +668-1425-5888 | attain.work@gmail.com
         </p>
       </div>
