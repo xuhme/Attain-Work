@@ -27,10 +27,10 @@ const Business = () => (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Maximize your , <br className="sm:block hidden" /> networking potential
+        Maximize your<br className="sm:block hidden" />Networking Potential
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        We'll handle the equipment, maintenance, and support, so you can focus
+        We'll handle the devices, maintenance, and support, so you can focus
         on growing your business. With trusted partnerships, competitive
         pricing, and efficient services
       </p>
