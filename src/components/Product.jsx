@@ -19,7 +19,7 @@ const Product = () => (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         Enhance with
-        <br className="sm:block hidden" />
+        <br className="block" />
          Quality products.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
