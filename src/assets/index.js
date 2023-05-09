@@ -1,5 +1,5 @@
 import enhance from "./enhance.png";
-import logo from "./logo.png";
+import logo from "./logo.svg";
 import network from "./network.png";
 import gear from "./Gear.svg";
 import shield from "./Shield.svg";
