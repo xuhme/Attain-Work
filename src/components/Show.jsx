@@ -8,9 +8,9 @@ const Show = () => (
     {show.map((show) => (
       <div
         key={show.id}
-        className={`flex-1 flex justify-center items-center flex-row m-3 sm:ml-0 ml-10 text-center`}
+        className={`flex-1 flex justify-center items-center flex-row xs:px-0 px-7 py-2 text-center`}
       >
-        <h4 className="justify-center items-center font-poppins font-semibold xs:text-[24px] text-[18px] xs:leading-[54px] leading-[44px] text-gradient uppercase ml-3">
+        <h4 className="font-poppins font-semibold xs:text-[30px] text-[20px] xs:leading-[54px] leading-[44px] text-gradient uppercase ml-3">
           {show.title}
         </h4>
       </div>
