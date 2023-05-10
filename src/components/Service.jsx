@@ -11,7 +11,7 @@ const Service = () => (
 
     <div className="w-full flex justify-center items-center text-center flex-col sm:mb-6 mb-0 relative z-[1]">
       <h2 className={styles.heading2}>
-        Discover <br className="sm:hidden block" /> Our Service
+        Discover <br className="sm:hidden block" /> Our Services
       </h2>
       <div className="w-full md:mt-0 mt-6"></div>
     </div>
