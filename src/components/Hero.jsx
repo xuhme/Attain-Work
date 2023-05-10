@@ -5,25 +5,25 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className={`flex md:flex-row flex-col sm:pt-[12%] pt-[80px] ${styles.paddingY}`}
+      className={`flex md:flex-row flex-col sm:pt-[10%] pt-[80px] ${styles.paddingY}`}
     >
       <div
         className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
       >
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            Secure <br className="sm:block hidden" />{" "}
-            <span className="text-gradient">Networks</span>{" "}
+            {/* Attain <br className="sm:block hidden" /> */}
+            <span className="text-gradient">Attain Work</span>{" "}
           </h1>
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          Made Simple
+          Co Ltd.
         </h1>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Attain Work Co Ltd. was established in 2021, and is now a leading
-          provider of network devices, maintenance, and support services.The
-          company provides reliable and secure networking solutions,
+        <p className={`${styles.paragraph} max-w-[478px] mt-5`}>
+          Established in 2021, and is now a leading provider of network devices,
+          maintenance, and support services. The company provides reliable and
+          secure networking solutions,
         </p>
       </div>
 
